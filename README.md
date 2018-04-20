@@ -29,8 +29,11 @@ The network model for D3QN is slightly different from the paper as we find this 
 The vedio of our real world experiments is available at [Youtube](https://www.youtube.com/watch?v=qNIVgG4RUDM)
 
 ## Prerequisites
+
 Tensorflow > 1.1
+
 ROS Kinetic
+
 cv2
 
 ## Instruction
