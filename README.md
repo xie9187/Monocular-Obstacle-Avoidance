@@ -1,6 +1,6 @@
 # Towards Monocular Vision based Obstacle Avoidance through Deep Reinforcement Learning
 
-By Linhai Xie, Sen Wang, Niki trigoni, Andrew Markham.
+By [Linhai Xie](https://www.cs.ox.ac.uk/people/linhai.xie/), [Sen Wang](http://senwang.weebly.com/), Niki trigoni, Andrew Markham.
 
 The tensorflow implmentation for the paper: [Towards Monocular Vision based Obstacle Avoidance through Deep Reinforcement Learning](https://arxiv.org/abs/1706.09829)
 
