@@ -40,7 +40,8 @@ cv2
 **Retraining FCRN**
 
 We have a example dataset collected with a turtlebot in folder ```/Depth/data``` which contains 1k labeled rgb-depth images. 
-We recommand to collected more than 10k images to retrain a good model based on the initial model.
+And the full dataset we used with 10k images is [here.](https://drive.google.com/file/d/1OUH0Ioe1uT3MoEz9TwmzzBbtgJWtZVPh/view?usp=sharing)
+We recommend to collected more than 10k images by yourself to retrain a good model based on the initial one.
 
 After collecting enough data, use `DataPreprocess.py` to generate training and testing datasets.
 
