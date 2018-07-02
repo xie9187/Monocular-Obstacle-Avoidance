@@ -16,7 +16,6 @@ from cv_bridge import CvBridge, CvBridgeError
 from sensor_msgs.msg import LaserScan
 from nav_msgs.msg import Odometry
 from kobuki_msgs.msg import BumperEvent
-from sklearn.cluster import MiniBatchKMeans
 
 class GazeboWorld():
 	def __init__(self):
